@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786152682081",
+    "project_id": "planet-aa60e",
+    "storage_bucket": "planet-aa60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786152682081:android:35d8c99dcb735f68193020",
+        "android_client_info": {
+          "package_name": "Com.inetum.GoandGoCar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786152682081-dfi6uk6lh4245kpe6a96d6usdp0n18aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtzxkcZKFGdg2dinu63xE-Rb2FZRHdEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786152682081-dfi6uk6lh4245kpe6a96d6usdp0n18aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
